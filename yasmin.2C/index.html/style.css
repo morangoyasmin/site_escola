@@ -1,0 +1,18 @@
+.cabeçalho{
+background-color:#1D3252;
+color: #C6CFE4;
+display: flex;
+align-items: center;
+
+}
+.alura_imagem{
+width: 15%;
+
+}
+.texto_alura{
+display:inline;
+margin: 15%;
+
+}
+
+
